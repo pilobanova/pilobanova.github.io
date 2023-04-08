@@ -5,12 +5,65 @@
     <link>https://example.com/category/demo/</link>
       <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 20:31:34 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 16:44:51 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>https://example.com/category/demo/</link>
     </image>
+    
+    <item>
+      <title>Легковесные Языки Разметки</title>
+      <link>https://example.com/post/%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B5-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</link>
+      <pubDate>Sat, 08 Apr 2023 16:44:51 +0300</pubDate>
+      <guid>https://example.com/post/%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%B2%D0%B5%D1%81%D0%BD%D1%8B%D0%B5-%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8/</guid>
+      <description>&lt;h1 id=&#34;легковесные-языки-разметки&#34;&gt;Легковесные языки разметки&lt;/h1&gt;
+&lt;p&gt;Легковесные языки разметки предназначены для простого и быстрого добавления форматирования в текстовые данные.&lt;/p&gt;
+&lt;p&gt;Особенности:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Минимум функций&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Небольшой набор поддерживаемых тегов&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Легки в освоении&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Исходный текст на таком языке читается с такой же легкостью, как и готовый документ.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Основные представители:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Markdown&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Org-mode&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;BBCode&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Textile&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Вики-разметка&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lastweek2</title>
+      <link>https://example.com/post/lastweek2/</link>
+      <pubDate>Sat, 08 Apr 2023 16:40:50 +0300</pubDate>
+      <guid>https://example.com/post/lastweek2/</guid>
+      <description>&lt;h1 id=&#34;немного-о-прошедшей-неделе&#34;&gt;Немного о прошедшей неделе&lt;/h1&gt;
+&lt;p&gt;За прошедшую неделю я успела сделать лабораторную работу (а также проект, который я делаю сейчас), защитила проект по технологиям программирования на высший балл и написала контрольную работу по матлогике.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Git</title>
