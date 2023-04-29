@@ -5,12 +5,123 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 16:44:51 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 29 Apr 2023 15:25:17 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Report</title>
+      <link>https://example.com/post/report/</link>
+      <pubDate>Sat, 29 Apr 2023 15:25:17 +0300</pubDate>
+      <guid>https://example.com/post/report/</guid>
+      <description>&lt;h1 id=&#34;оформление-отчета&#34;&gt;Оформление отчета&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Цель работы
+Здесь приводится формулировка цели лабораторной работы. Формулировки
+цели для каждой лабораторной работы приведены в методических
+указаниях.
+Цель данного шаблона &amp;mdash; максимально упростить подготовку отчётов по
+лабораторным работам.  Модифицируя данный шаблон, студенты смогут без
+труда подготовить отчёт по лабораторным работам, а также познакомиться
+с основными возможностями разметки Markdown.
+#2. Задание
+Здесь приводится описание задания в соответствии с рекомендациями
+методического пособия и выданным вариантом.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Теоретическое введение
+Здесь описываются теоретические аспекты, связанные с выполнением работы.
+Например, в табл. @tbl:std-dir приведено краткое описание стандартных каталогов Unix.
+: Описание некоторых каталогов файловой системы GNU Linux {#tbl:std-dir}&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Имя каталога&lt;/th&gt;
+&lt;th&gt;Описание каталога&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;/&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Корневая директория, содержащая всю файловую&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;/bin &lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Основные системные утилиты, необходимые как в однопользовательском режиме, так и при обычной работе всем пользователям&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;/etc&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Общесистемные конфигурационные файлы и файлы конфигурации установленных программ&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;/home&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Содержит домашние директории пользователей, которые, в свою очередь, содержат персональные настройки и данные пользователя&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;/media&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Точки монтирования для сменных носителей&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;/root&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Домашняя директория пользователя  &lt;code&gt;root&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;/tmp&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Временные файлы&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;/usr&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Вторичная иерархия для данных пользователя&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Выполнение лабораторной работы
+Описываются проведённые действия, в качестве иллюстрации даётся ссылка на иллюстрацию (рис. @fig:001).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/placeimg_800_600_tech.jpg&#34; alt=&#34;Название рисунка&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:001 width=70%}&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Выводы
+Здесь кратко описываются итоги проделанной работы.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lastweek3</title>
+      <link>https://example.com/post/lastweek3/</link>
+      <pubDate>Sat, 29 Apr 2023 15:22:06 +0300</pubDate>
+      <guid>https://example.com/post/lastweek3/</guid>
+      <description>&lt;h1 id=&#34;немного-о-прошедшей-неделе&#34;&gt;Немного о прошедшей неделе&lt;/h1&gt;
+&lt;p&gt;Для меня эта неделя была очень напряжённая, потому что я готовила к закрытию долго, который у меня появился из-за перехода на другое направление. И я смогла его закрыть!!! В остальном неделя была обычная, никаких контрольных или важных событий. Однако через несколько дней уже май, так что настроение хорошее и есть желание много чего делать.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Легковесные Языки Разметки</title>
@@ -275,7 +386,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-827534169&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-521374869&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -285,7 +396,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-827534169&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-521374869&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
