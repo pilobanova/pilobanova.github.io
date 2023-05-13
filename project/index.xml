@@ -5,12 +5,21 @@
     <link>https://example.com/project/</link>
       <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 May 2023 12:08:53 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://example.com/project/</link>
     </image>
+    
+    <item>
+      <title>Site</title>
+      <link>https://example.com/project/site/</link>
+      <pubDate>Sat, 13 May 2023 12:08:53 +0300</pubDate>
+      <guid>https://example.com/project/site/</guid>
+      <description>&lt;p&gt;Казалось бы, создать личный сайт довольно сложная вещь, но в нашем случае для этого требуется только ссылка на определенный репозиторий и некоторые знания линукса. С помощью этой ссылки вы создаете новый репозиторий и все необходимые файлы для сайта. Позже вам нужно будет создать еще один репозиторий для того, чтобы сделать сайт общедоступным. В этом вам поможет ваш аккаунт на гитхабе. В несколько простых движений вы делаете своей сайт общедоступный, имя сайта совпадает с названием вашего второго репозиторий (а также с именем пользователя на гитхабе). Все необходимые элементы сайта вы можете добавлять прямо в файлы вашего репозитория и оформлять их так, как нравится вам, добавлять разные иконки, ссылки и тд. А самое главное, что это абсолютно бесплатно!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Example Project</title>
